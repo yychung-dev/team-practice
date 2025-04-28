@@ -1,5 +1,6 @@
 #users>.user-4{
-	color:green;transition:color:2s
+	color:green;transition:color:2s;
+	font-weight:bold;
 }
 #users>.user-4:hover{
 	color:yellow;
